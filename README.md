@@ -2,7 +2,7 @@
 - 👀 I’m interested in everything to do with data.
 - 🌱 I’m currently learning Business Information Technology...
 - 💞️ I’m looking to collaborate on data analysisprojects
-- 📫 How to reach me gochuwangechi2018@gmail.com
+- 📫 How to reach me gichuwangechi2018@gmail.com
 
 <!---
 Lilian-Wangechi23/Lilian-Wangechi23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
