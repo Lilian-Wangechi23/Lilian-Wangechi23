@@ -1,8 +1,9 @@
-- 👋 Hi, I’m @Lilian-Wangechi23
-- 👀 I’m interested in everything to do with data.
-- 🌱 I’m currently learning Business Information Technology...
-- 💞️ I’m looking to collaborate on data analysisprojects
-- 📫 How to reach me gichuwangechi2018@gmail.com
+- 👋 Hi, I’m @Lilian-Wangechi Gichu
+- 👀 I love everything to do with data.
+- 🌱 I’m currently learning Datascience and Machine Learning
+   💞️   Python language sounds good to my ears.
+- 💞️ I’m looking to collaborate on data analysis projects
+- 📫 How to reach me, gmail@ gichuwangechi2018@gmail.com
 
 <!---
 Lilian-Wangechi23/Lilian-Wangechi23 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
